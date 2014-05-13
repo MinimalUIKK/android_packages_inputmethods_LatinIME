@@ -20,38 +20,38 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- Color resources for Gingerbread theme. -->
-    <color name="highlight_color_gb">#dd414141</color>
-    <color name="typed_word_color_gb">#dd414141</color>
+    <color name="highlight_color_gb">#dd8c8585</color>
+    <color name="typed_word_color_gb">#dd8c8585</color>
     <color name="highlight_translucent_color_gb">#ddf2f2f2</color>
-    <color name="key_text_color_gb">#ff414141</color>
-    <color name="key_text_shadow_color_gb">#00414141</color>
-    <color name="key_text_inactivated_color_gb">#66414141</color>
-    <color name="key_hint_letter_color_gb">#80414141</color>
-    <color name="key_hint_label_color_gb">#a0414141</color>
-    <color name="key_shifted_letter_hint_inactivated_color_gb">#66414141</color>
-    <color name="key_shifted_letter_hint_activated_color_gb">#ff414141</color>
-    <color name="spacebar_text_color_gb">#ff414141</color>
-    <color name="spacebar_text_shadow_color_gb">#00414141</color>
+    <color name="key_text_color_gb">#ff8c8585</color>
+    <color name="key_text_shadow_color_gb">#008c8585</color>
+    <color name="key_text_inactivated_color_gb">#668c8585</color>
+    <color name="key_hint_letter_color_gb">#808c8585</color>
+    <color name="key_hint_label_color_gb">#a08c8585</color>
+    <color name="key_shifted_letter_hint_inactivated_color_gb">#668c8585</color>
+    <color name="key_shifted_letter_hint_activated_color_gb">#ff8c8585</color>
+    <color name="spacebar_text_color_gb">#ff8c8585</color>
+    <color name="spacebar_text_shadow_color_gb">#008c8585</color>
     <color name="gesture_floating_preview_color_gb">#ddf2f2f2</color>
     <!-- Color resources for IceCreamSandwich theme. Base color = 33B5E5 -->
     <!-- android:color/holo_blue_light value is #FF33B5E5 -->
-    <color name="highlight_color_ics">#dd414141</color>
-    <color name="typed_word_color_ics">#dd414141</color>
-    <color name="suggested_word_color_ics">#dd414141</color>
+    <color name="highlight_color_ics">#dd8c8585</color>
+    <color name="typed_word_color_ics">#dd8c8585</color>
+    <color name="suggested_word_color_ics">#dd8c8585</color>
     <color name="highlight_translucent_color_ics">#ddf2f2f2</color>
-    <color name="key_text_shadow_color_holo">#00414141</color>
-    <color name="key_text_inactivated_color_holo">#66414141</color>
-    <color name="key_hint_letter_color_holo">#80414141</color>
-    <color name="key_hint_label_color_holo">#a0414141</color>
-    <color name="key_shifted_letter_hint_inactivated_color_holo">#66414141</color>
-    <color name="key_shifted_letter_hint_activated_color_holo">#ff414141</color>
-    <color name="spacebar_text_color_holo">#ff414141</color>
-    <color name="spacebar_text_shadow_color_holo">#00414141</color>
+    <color name="key_text_shadow_color_holo">#008c8585</color>
+    <color name="key_text_inactivated_color_holo">#668c8585</color>
+    <color name="key_hint_letter_color_holo">#808c8585</color>
+    <color name="key_hint_label_color_holo">#a08c8585</color>
+    <color name="key_shifted_letter_hint_inactivated_color_holo">#668c8585</color>
+    <color name="key_shifted_letter_hint_activated_color_holo">#ff8c8585</color>
+    <color name="spacebar_text_color_holo">#ff8c8585</color>
+    <color name="spacebar_text_shadow_color_holo">#008c8585</color>
     <color name="gesture_floating_preview_color_holo">#ddf2f2f2</color>
     <!-- Color resources for KLP theme. Base color = F0F0F0 -->
-    <color name="highlight_color_klp">#dd414141</color>
-    <color name="typed_word_color_klp">#dd414141</color>
-    <color name="suggested_word_color_klp">#dd414141</color>
+    <color name="highlight_color_klp">#dd8c8585</color>
+    <color name="typed_word_color_klp">#dd8c8585</color>
+    <color name="suggested_word_color_klp">#dd8c8585</color>
     <color name="highlight_translucent_color_klp">#ddf2f2f2</color>
     <!-- Color resources for setup wizard and tutorial -->
     <color name="setup_background">#FFEBEBEB</color>
@@ -59,13 +59,13 @@
     <color name="setup_text_action">@android:color/holo_blue_light</color>
     <color name="setup_step_background">@android:color/background_light</color>
     <color name="setup_welcome_video_margin_color">#FFCCCCCC</color>
-    <color name="emoji_category_page_id_view_background">#FF414141</color>
+    <color name="emoji_category_page_id_view_background">#FF8c8585</color>
     <color name="emoji_category_page_id_view_foreground">#80FFFFFF</color>
 
     <!-- TODO: Color which should be included in the theme -->
-    <color name="emoji_key_background_color">#00414141</color>
+    <color name="emoji_key_background_color">#008c8585</color>
     <color name="emoji_key_pressed_background_color">#30FFFFFF</color>
 
-    <color name="key_text_color_normal_holo">#ff414141</color>
-    <color name="key_text_color_functional_holo">#ff414141</color>
+    <color name="key_text_color_normal_holo">#ff8c8585</color>
+    <color name="key_text_color_functional_holo">#ff8c8585</color>
 </resources>
